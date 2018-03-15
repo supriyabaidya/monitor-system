@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://webservice-android.1d35.starter-us-east-1.openshiftapps.com/AndroidWebService?wsdl" uri="wsdl/webservice-android.1d35.starter-us-east-1.openshiftapps.com/AndroidWebService.wsdl"/>
+    <system systemId="http://webservice-android.1d35.starter-us-east-1.openshiftapps.com:80/AndroidWebService?xsd=1" uri="wsdl/webservice-android.1d35.starter-us-east-1.openshiftapps.com_80/AndroidWebService.xsd_1.xsd"/>
+    <system systemId="http://webservice-android.1d35.starter-us-east-1.openshiftapps.com:80/AndroidWebService?xsd=2" uri="wsdl/webservice-android.1d35.starter-us-east-1.openshiftapps.com_80/AndroidWebService.xsd_2.xsd"/>
+    <system systemId="http://localhost:8081/android/AndroidWebService?wsdl" uri="wsdl/localhost_8081/android/AndroidWebService.wsdl"/>
+    <system systemId="http://localhost:8081/android/AndroidWebService?xsd=1" uri="wsdl/localhost_8081/android/AndroidWebService.xsd_1.xsd"/>
+    <system systemId="http://localhost:8081/android/AndroidWebService?xsd=2" uri="wsdl/localhost_8081/android/AndroidWebService.xsd_2.xsd"/>
+    <system systemId="http://web-service-android-sensor-web-service.1d35.starter-us-east-1.openshiftapps.com/AndroidWebService?wsdl" uri="wsdl/web-service-android-sensor-web-service.1d35.starter-us-east-1.openshiftapps.com/AndroidWebService.wsdl"/>
+    <system systemId="http://web-service-android-sensor-web-service.1d35.starter-us-east-1.openshiftapps.com:80/AndroidWebService?xsd=1" uri="wsdl/web-service-android-sensor-web-service.1d35.starter-us-east-1.openshiftapps.com_80/AndroidWebService.xsd_1.xsd"/>
+    <system systemId="http://web-service-android-sensor-web-service.1d35.starter-us-east-1.openshiftapps.com:80/AndroidWebService?xsd=2" uri="wsdl/web-service-android-sensor-web-service.1d35.starter-us-east-1.openshiftapps.com_80/AndroidWebService.xsd_2.xsd"/>
+</catalog>
