@@ -51,6 +51,7 @@
                         datatype: "html",
                         async: true,
                         success: function (data) {
+                            document.getElementById('time').innerHTML = new Date();
                             $("#output").html(data);
                         }
                     });
@@ -80,5 +81,6 @@
     <c:remove var="message" scope="session" />
 
     <h4 id="output"></h4>
+    <h4 id="time"></h4>
 </body>
 </html>
